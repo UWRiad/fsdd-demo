@@ -1,0 +1,8 @@
+numpy 
+scipy 
+librosa 
+sounddevice 
+scikit-learn 
+tensorflow
+tensorflow-macos
+datasets
