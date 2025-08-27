@@ -2,7 +2,7 @@
 
 Riad Dajani
 
-**Sumary of Results:***
+**Sumary of Results:**
 [train] loss=0.0123 acc=0.996 | val_acc=0.993 f1=0.993
 [eval] accuracy=0.9967, macroF1=0.9967
 Early-exit p>0.88
